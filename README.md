@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fquuixly&count_bg=%23FF4A4A&title_bg=%23555555&icon=lgtm.svg&icon_color=%23FF6666&title=Profile+views&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fquuixly&count_bg=%23D6D6D6&title_bg=%23555555&icon=lgtm.svg&icon_color=%23D6D6D6&title=Profile+views&edge_flat=false"/></a>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quuixly&theme=juicyfresh&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=quuixly&theme=oldie&column=7"/>
 </p>
 
 <hr/>
