@@ -1,15 +1,29 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I+am+quuixly+%E3%83%84" alt="Typing SVG" /></a>
+![👋 Hi, my name is quuixly! :)](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=quuixly&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc" align="center">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is quuixly! :)
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+ **<h3 align="center">🚀 IT and electronics enthusiast. I enjoy designing and building things from scratch, and I’m currently studying computer science.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 🌱 I'm currently learning: **AI Engineer**
+- 📝 Blog: **<a href="https://neuravers.com/" target="_blank">https://neuravers.com/</a>**
+
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=quuixly&theme=catppuccin-mocha&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=quuixly&theme=catppuccin_mocha&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
 </p>
 
-<hr/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%94%A5+Stats" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fquuixly&count_bg=%23D6D6D6&title_bg=%23555555&icon=lgtm.svg&icon_color=%23D6D6D6&title=Profile+views&edge_flat=false"/></a>
-</p>
-
-<hr/>
