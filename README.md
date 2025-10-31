@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is quuixly! :)
+        👋 Hi, I'm quuixly! :)
       </h1>
     </summary>
   </ul>
@@ -12,6 +12,6 @@
 
 <br/>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=quuixly&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sepia-six-34.vercel.app?user=quuixly&theme=ambient-gradient&hide_border=true" alt="GitHub Streak" /></a>
+</div>
