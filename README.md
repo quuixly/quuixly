@@ -13,5 +13,5 @@
 <br/>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sepia-six-34.vercel.app?user=quuixly&theme=ambient-gradient&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sepia-six-34.vercel.app?user=quuixly&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 </div>
