@@ -10,6 +10,8 @@
 
  **<h3 align="center">🚀 IT and electronics enthusiast. I enjoy designing and building things from scratch, and I’m currently studying computer science. I aspire to become an AI Engineer.</h3>**
 
+ **<h3 align="center">🔥I'm doing daily activity on Kaggle instead of GitHub now (Road to AI Engineer).</h3>**
+
 <br/>
 
 <div align="center">
