@@ -8,9 +8,9 @@
   </ul>
 </div>
 
- **<h3 align="center">🚀 IT and electronics enthusiast. I enjoy designing and building things from scratch, and I’m currently studying computer science. I aspire to become an ML Engineer.</h3>**
+ **<h3 align="center">🚀 IT and electronics enthusiast. I enjoy designing and building things from scratch, and I’m currently studying computer science.</h3>**
 
- **<h3 align="center">🔥I'm doing daily activity on Kaggle instead of GitHub now (Road to ML Engineer).</h3>**
+ **<h3 align="center">🔥I'm doing daily activity on Kaggle instead of GitHub now.</h3>**
 
 <br/>
 
