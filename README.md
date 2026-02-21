@@ -10,6 +10,11 @@
 
  **<h3 align="center">🚀 IT and electronics enthusiast. I enjoy designing and building things from scratch, and I’m currently studying computer science. From time to time, I like to write a program that performs computations across multiple CPUs/GPUs without any tests, hoping it won’t crash halfway through :)</h3>**
 
+ 
+**<h3 align="center">My blog: https://neuravers.com</h3>**
+
+
+
 <br/>
 
 <div align="center">
